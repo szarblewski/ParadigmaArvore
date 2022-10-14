@@ -1,0 +1,8 @@
+D:\fontes\testes\testesQualific\testesQualific\bin\Debug\testesQualific.exe.config
+D:\fontes\testes\testesQualific\testesQualific\bin\Debug\testesQualific.exe
+D:\fontes\testes\testesQualific\testesQualific\bin\Debug\testesQualific.pdb
+D:\fontes\testes\testesQualific\testesQualific\obj\Debug\testesQualific.csproj.AssemblyReference.cache
+D:\fontes\testes\testesQualific\testesQualific\obj\Debug\testesQualific.csproj.SuggestedBindingRedirects.cache
+D:\fontes\testes\testesQualific\testesQualific\obj\Debug\testesQualific.csproj.CoreCompileInputs.cache
+D:\fontes\testes\testesQualific\testesQualific\obj\Debug\testesQualific.exe
+D:\fontes\testes\testesQualific\testesQualific\obj\Debug\testesQualific.pdb
